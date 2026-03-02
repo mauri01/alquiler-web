@@ -1,6 +1,6 @@
 {
   "meta": {
-    "actualizado": "2026-02-27",
+    "actualizado": "2026-03-02",
     "nota": "ICL y UVA: generados automáticamente desde api.estadisticasbcra.com. IPC: INDEC, actualizar manualmente ~día 10-15 de cada mes. Casa Propia: datos históricos completos, no actualizar."
   },
   "ipc": {
